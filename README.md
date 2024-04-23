@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi Im Hiruni Herath 👋
+
+### 🚀Skills
+- React
+- javascript
+- Express
+- Node.js
+- Java
+- Python
+
+
+
 
 <!--
 **HiruniHerath/HiruniHerath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
