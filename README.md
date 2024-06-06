@@ -1,4 +1,4 @@
-# Hi Im Hiruni Herath 👋
+# Hi Im Hiruni Herath <img src = "https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" style="width:70px" />
 
 ###### Enthusiastic tech enthusiast | 🌟 Passionate learner | 💡 Creative problem solver | 🚀 Aspiring developer | 🌐 Connecting ideas and people | 🎨 Designing a brighter future | 
 ![](https://komarev.com/ghpvc/?username=HiruniHerath&color=dc143c)
